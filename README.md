@@ -15,7 +15,8 @@ a script kiddy. We want you to understand what's going on and what the computer 
 to be a programming language. As to why you need to understand computer networking -- the answers simple when you think about it. What is Cyber Security? It is defending and attacking networks, kind of. This is
 a simplification and there exists many more niches within cyber security (digital forensics, incident response, policy, etc.), but those two truths remain at the center of it.
 
-So computer networking and programming **are a must?** Well, not really. It is important and it is imperative that you learn them. But if you get caught up in learning X before Y, you'll
+### I have to learn ALL of that before I begin?
+So computer networking **and** programming are a must before I even begin? Well, not really. It is important and it is imperative that you learn them. But if you get caught up in learning X before Y, you'll
 never learn Y. So learn those adjacent to the course! It's preferred that you know them, but it's not going to be the end all be all. I don't want to understate their importance
 becuase they are very important and if you want to break into the field, you're going to need to understand them.
 
