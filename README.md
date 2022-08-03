@@ -45,8 +45,8 @@ the web! And JS is a must for that!
 
 There exists an all encompassing course (also free) called The Odin Project. It is one of the greatest sources of learning on the internet and has an active community. This not only covers
 the basics, but covers advancaed topics as well! You can find the course <a href="https://www.theodinproject.com/"> here </a>.
-* It is so important that you do the projects in this course
-* This also teaches the basics of HTML and CSS
+* It is **so** important that you do the projects in this course
+* This also teaches the basics of HTML and CSS which very important when learning the web
 
 
 ## Onto The Fun Stuff
