@@ -21,7 +21,7 @@ So I need to know computer networking **and** programming before I even begin? W
 never learn Y. So learn those adjacent to the course! It's preferred that you know them, but it's not going to be the end all be all. I don't want to understate their importance
 becuase they are very important and if you want to break into the field, you're going to need to understand them.
 
-So, the purpose of this guide is to help guide you and I've begun with leaving you two giant problems. I won't leave you stranded. If you search programming and computer networking, you'll
+So, the purpose of this guide is to help guide you and I've begun this journey with two giant problems. I won't leave you stranded. If you search programming and computer networking, you'll
 be overwhelmed by the options. There are tons of resources, but not all resources are created equal. 
 
 ## Which Programming Language Do I Choose? And which couurse?? Aghhh!
@@ -38,11 +38,18 @@ to work with. As such, Python fulfills this role great! Here is my recommended c
     * If books are more your style, than this here is a great resource
     * I find it better than a lot of other books because I find it more complete than others, and it has tons of amazing hand-on learning
 
-### JavaScript
+### JavaScript (and a little more)
 
 JavaScript (JS) is another awesome first language! It's also essential to cyber security because JS rules the web. If you're going to be defedning the web, you're going to need to understand
 the web! And JS is a must for that!
 
-Unfortunately, the list of free amazing JavaScript courses is not as good Python's, but there's still some great ones!
-* Eloquent JavaScript
+There exists an all encompassing course (also free) called The Odin Project. It is one of the greatest sources of learning on the internet and has an active community. This not only covers
+the basics, but covers advancaed topics as well! You can find the course <a href="https://www.theodinproject.com/"> here </a>.
+* It is so important that you do the projects in this course
+* This also teaches the basics of HTML and CSS
 
+
+## Onto The Fun Stuff
+
+With all that done, you are now ready for some cool stuff! In the next upcoming lessons, there will be two different tracks to explore -- the blue team and the red team!
+Choose which track you wish to embark on and let the fun begin.
