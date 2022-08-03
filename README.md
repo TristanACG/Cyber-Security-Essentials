@@ -11,9 +11,10 @@ This resource is here to guide you and provide you with free, no strings attache
 
 The question now is *Where do I even begin?* and the answer might be a little dissapointing for some. You begin **not** with cyber security (\*Gasp!\*), but instead with the
 basics. You're going to need to know how to program and the basics of computer networking. Why? Well, we are making you cyber security professionals! We don't want you to be
-a script kiddy. We want you to understand what's going on and what the computer is doing! And to understand what the computer is doing, you need to be able to speak their language, which happens
-to be a programming language. As to why you need to understand computer networking -- the answers simple when you think about it. What is Cyber Security? It is defending and attacking networks, kind of. This is
-a simplification and there exists many more niches within cyber security (digital forensics, incident response, policy, etc.), but those two truths remain at the center of it.
+a script kiddy. We want you to understand what's going on and what the computer is doing! Just as natural language is the notation of though, programming languages are the notation for
+the systems we build. And we must understand that notation if we wish to maniupulate the computer to out will. As to why you need to understand computer networking -- the answers simple when you 
+think about it. What is Cyber Security? It is defending and attacking networks, kind of. This is, of course, a simplification and there exists many more niches within cyber security 
+(digital forensics, incident response, policy, etc.), but those two truths remain at the center of it.
 
 ### I have to learn ALL of that before I begin?
 So I need to know computer networking **and** programming before I even begin? Well, not really. It is imperative that you learn them, but if you get caught up in learning X before Y, you'll
