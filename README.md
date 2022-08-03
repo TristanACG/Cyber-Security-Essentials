@@ -51,5 +51,5 @@ the basics, but covers advancaed topics as well! You can find the course <a href
 
 ## Onto The Fun Stuff
 
-With all that done, you are now ready for some cool stuff! In the next upcoming lessons, there will be two different tracks to explore -- the blue team and the red team!
-Choose which track you wish to embark on and let the fun begin.
+With all that done, you are now ready for some cool stuff! In the next upcoming lessons, there will be two different tracks to explore -- the blue team or the red team!
+Choose which track you wish to embark on and let the fun begin!
