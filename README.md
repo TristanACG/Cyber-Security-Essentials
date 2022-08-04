@@ -11,8 +11,8 @@ This resource is here to guide you and provide you with free, no strings attache
 
 The question now is *Where do I even begin?* and the answer might be a little dissapointing for some. You begin **not** with cyber security (\*Gasp!\*), but instead with the
 basics. You're going to need to know how to program and the basics of computer networking. Why? Well, we are making you cyber security professionals! We don't want you to be
-a script kiddy. We want you to understand what's going on and what the computer is doing! Just as natural language is the notation of though, programming languages are the notation for
-the systems we build. And we must understand that notation if we wish to maniupulate the computer to out will. As to why you need to understand computer networking -- the answers simple when you 
+a script kiddy. We want you to understand what's going on and what the computer is doing! Just as natural language is the notation of thought, programming languages are the notation for
+the systems we build. And we must understand that notation if we wish to manipulate the computer to our will. As to why you need to understand computer networking -- the answers simple when you 
 think about it. What is Cyber Security? It is defending and attacking networks, kind of. This is, of course, a simplification and there exists many more niches within cyber security 
 (digital forensics, incident response, policy, etc.), but those two truths remain at the center of it.
 
@@ -24,7 +24,7 @@ becuase they are very important and if you want to break into the field, you're 
 So, the purpose of this guide is to help guide you and I've begun this journey with two giant problems. I won't leave you stranded. If you search programming and computer networking, you'll
 be overwhelmed by the options. There are tons of resources, but not all resources are created equal. 
 
-## Which Programming Language Do I Choose? And which couurse?? Aghhh!
+## Which Programming Language Do I Choose? And which course?? Aghhh!
 
 ### Python
 As for which programming language, a slightly misguided answer might be *It doesn't matter. Choose whichever language you want!* This is true, but you need the right level of abstractions
@@ -40,7 +40,7 @@ to work with. As such, Python fulfills this role great! Here is my recommended c
 
 ### JavaScript (and a little more)
 
-JavaScript (JS) is another awesome first language! It's also essential to cyber security because JS rules the web. If you're going to be defedning the web, you're going to need to understand
+JavaScript (JS) is another awesome first language! It's also essential to cyber security because JS rules the web. If you're going to be defending the web, you're going to need to understand
 the web! And JS is a must for that!
 
 There exists an all encompassing course (also free) called The Odin Project. It is one of the greatest sources of learning on the internet and has an active community. This not only covers
