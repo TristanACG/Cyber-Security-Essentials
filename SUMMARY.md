@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Choose Your Path](Choose-Your-Path.md)
-    * [Welcome to the Red Team](Red-Team/Red-Team.md)
+* [Welcome to the Red Team](Red-Team/Red-Team.md)
     * [Part 1. Information Gathering](Red-Team/Information-Gathering/Info-g.md)
 
