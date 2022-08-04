@@ -36,7 +36,7 @@ to work with. As such, Python fulfills this role great! Here is my recommended c
     * This is great, but it won't give you the full picture. You'll have many gaps if this is your sole source.
 * Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes found <a href="https://nostarch.com/pythoncrashcourse2e"> here </a>
     * If books are more your style, than this here is a great resource
-    * I find it better than a lot of other books because I find it more complete than others, and it has tons of amazing hand-on learning
+    * I find it better than a lot of other books because it's more complete than others, and it has tons of amazing hand-on learning projects
 
 ### JavaScript (and a little more)
 
